@@ -18,12 +18,12 @@ Dando estilos y funcionalidad al formulario he tardado un tiempo medio de 2h.
 Para la realización de este proyecto se ha utilizado
 * [HTML5]
 * [CSS]
-* [jAVA SCRIPT ]
+* [JAVA SCRIPT ]
 * [ VISUAL CODE]
 
 ## Instalación 📋
 Para poder ejecutar correctamente los distintos lenguajes de programación se ha instalado Visual Code
 ### Notas
-Mediante la realización de la práctica he aprendido conceptos clave en Java Script como la utilización de AddListener para la realización de distintas funciones dentro de la página web , así como el diseñar un formulario libremente escogiendo estilos que sean más atractivos y hagas más grata la experiencia del usuario que lo utilizará.
+Mediante la realización de la práctica he aprendido conceptos clave en Java Script como la utilización de AddListener para la realización de distintas funciones dentro de la página web , así como el diseñar un formulario libremente escogiendo estilos que sean más atractivos y hagan más grata la experiencia del usuario que lo utilizará.
 
 
