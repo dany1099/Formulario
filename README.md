@@ -1,7 +1,9 @@
 # FORMULARIO ALTA TELEFÓNICA
 Es la tercera práctica del curso de Desarrolladora web Junior Impartido por [Bejob](https://www.bejob.com)
-## Content
+## Descripción
 Relización de un formulario que permite darnos de alta teniendo la opción de escoger entre distintas companias telefónicas, añadiendo nuestros datos personales y demás información necesaria,
+## Autora:Jennifer Daniela Díaz Tituaña
+
 ## Tiempo de programación
 Dando estilos y funcionalidad al formulario he tardado un tiempo medio de 2h.
 ## Herramientas utilizadas
@@ -10,24 +12,9 @@ Para la realización de este proyecto se ha utilizado
 * [CSS]
 * [jAVA SCRIPT ]
 * [ VISUAL CODE]
-* [ ]
-## Demo
-If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
-## How to clone
-If you have special requirements, you have to list it step by step.
-* This is the first step
-* Then you have to do this
-* Finally do this
-Markdown has enumation and nested lists.
-## Installation
-To install and run this proyect just type and execute
-```bash
-npm install
-```
-## Preview
-Insert here an image of the preview if your project has one. The image can be into the project, you have to indicate the route and look like this.
 
-![](/preview.jpg)
+## Instalación
+Para poder ejecutar correctamente los distintos lenguajes de programación se ha instalado Visual Code
 
 ### Notes
-If you want to learn all about markdown i recommend you visit the site [markdown.es](https://markdown.es/sintaxis-markdown/)
+
